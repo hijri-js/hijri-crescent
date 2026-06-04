@@ -1,0 +1,58 @@
+{
+  "EG": {
+    "status": "success",
+    "data": {
+      "date": "18",
+      "month": "Dhu-al-Hijjah",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-04T03:40:41.966Z",
+    "source": "https://www.dar-alifta.org/en"
+  },
+  "SA": {
+    "status": "success",
+    "data": {
+      "date": "18",
+      "month": "Dhual-Hijja",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-04T03:40:41.966Z",
+    "source": "https://www.ummulqura.org.sa/"
+  },
+  "AE": {
+    "status": "success",
+    "data": {
+      "date": "18",
+      "month": "ZelHaj",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "source": "https://www.awqaf.gov.ae/?lang=en"
+  },
+  "KW": {
+    "status": "success",
+    "data": {
+      "date": "18",
+      "month": "Dhul Hijja",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "source": "https://www.awqaf.gov.kw/en"
+  },
+  "JO": {
+    "status": "success",
+    "data": {
+      "date": "18",
+      "month": "ذو الحجة",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "source": "https://www.aliftaa.jo/Default"
+  },
+  "DZ": {
+    "status": "error",
+    "error": "No Hijri date found on marw.gov.dz",
+    "cachedAt": "2026-06-04T03:40:41.969Z",
+    "source": "https://marw.gov.dz/"
+  }
+}

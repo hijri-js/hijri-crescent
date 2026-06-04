@@ -1,0 +1,30 @@
+{
+  "lastRunAt": "2026-06-04T03:40:23.570Z",
+  "countries": {
+    "EG": {
+      "status": "success",
+      "cachedAt": "2026-06-04T03:40:41.966Z"
+    },
+    "SA": {
+      "status": "success",
+      "cachedAt": "2026-06-04T03:40:41.966Z"
+    },
+    "AE": {
+      "status": "success",
+      "cachedAt": "2026-06-04T03:40:41.968Z"
+    },
+    "KW": {
+      "status": "success",
+      "cachedAt": "2026-06-04T03:40:41.968Z"
+    },
+    "JO": {
+      "status": "success",
+      "cachedAt": "2026-06-04T03:40:41.968Z"
+    },
+    "DZ": {
+      "status": "error",
+      "cachedAt": "2026-06-04T03:40:41.969Z",
+      "error": "No Hijri date found on marw.gov.dz"
+    }
+  }
+}
