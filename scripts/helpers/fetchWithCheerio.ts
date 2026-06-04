@@ -22,7 +22,7 @@ const DEFAULT_HEADERS = {
 export async function fetchDateFromWebsite({ url, onSuccess, onFailure, getConfigs }: FetchOptions): Promise<HijriDateData> {
   try {
     const response = await axios.get(url, {
-      timeout: 15000,
+      timeout: 30000,
       headers: DEFAULT_HEADERS,
       ...getConfigs,
     });
