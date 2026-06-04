@@ -1,11 +1,12 @@
 lockfileVersion: '9.0'
 
+onlyBuiltDependencies:
+  - esbuild
+  - playwright
+
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
-  onlyBuiltDependencies:
-    - esbuild
-    - playwright
 
 importers:
 
