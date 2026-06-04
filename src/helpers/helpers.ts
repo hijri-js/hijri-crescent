@@ -1,5 +1,6 @@
 import axios, { AxiosRequestConfig } from "axios";
 import * as cheerio from "cheerio";
+import https from "https";
 
 async function fetchDateFromWebsite({
   url,
@@ -25,4 +26,10 @@ async function fetchDateFromWebsite({
   }
 }
 
-export { fetchDateFromWebsite };
+function getHTTPAgentAcceptUnAuthorized() {
+  return new https.Agent({
+    rejectUnauthorized: false,
+  });
+}
+
+export { fetchDateFromWebsite, getHTTPAgentAcceptUnAuthorized };

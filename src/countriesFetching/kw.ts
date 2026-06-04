@@ -2,10 +2,10 @@ import * as cheerio from "cheerio";
 import { websites } from "../data/websites";
 import { fetchDateFromWebsite } from "../helpers/helpers";
 
-export async function getHijriDateEmirates() {
+export async function getHijriDateKuwait() {
   function onSuccess($: cheerio.CheerioAPI) {
-    const hijraDateFromPage = $(".namaz-date").first().text();
-    const [date, ...rest] = hijraDateFromPage?.trim().split("\n")[0].split(" ");
+    const hijraDateFromPage = $("#divTodayDate2").first().text();
+    const [date, ...rest] = hijraDateFromPage?.split(" ");
     const year = rest.pop();
     const month = rest.join(" ");
     return { date, month, year };
@@ -13,7 +13,7 @@ export async function getHijriDateEmirates() {
 
   try {
     return await fetchDateFromWebsite({
-      url: websites.AE,
+      url: websites.KW,
       onSuccess,
       onFailure: (error: unknown) => {
         throw new Error(`Something went wrong, \n${error}`);

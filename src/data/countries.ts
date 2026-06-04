@@ -1,5 +1,9 @@
 import { getHijriDateEmirates } from "../countriesFetching/ae";
+import { getHijriDateAlgeria } from "../countriesFetching/dz";
 import { getHijriDateEgypt } from "../countriesFetching/eg";
+import { getHijriDateJordan } from "../countriesFetching/jo";
+import { getHijriDateKuwait } from "../countriesFetching/kw";
+import { getHijriDateOman } from "../countriesFetching/om";
 import { getHijriDateSaudiArabia } from "../countriesFetching/sa";
 
 type countriesFunctionsMappingType = {
@@ -10,6 +14,10 @@ export const countriesFunctionsMapping: countriesFunctionsMappingType = {
   EG: getHijriDateEgypt,
   SA: getHijriDateSaudiArabia,
   AE: getHijriDateEmirates,
+  // OM: getHijriDateOman,
+  KW: getHijriDateKuwait,
+  JO: getHijriDateJordan,
+  DZ: getHijriDateAlgeria,
 };
 
 export const countriesCodes: { [key: string]: string } = {

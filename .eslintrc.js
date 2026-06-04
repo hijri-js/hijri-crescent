@@ -14,5 +14,6 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   rules: {
     "no-unsafe-optional-chaining": "off",
+    "@typescript-eslint/ban-types": "off",
   },
 };

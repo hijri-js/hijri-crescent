@@ -1,8 +1,9 @@
-import axios, { AxiosRequestConfig } from "axios";
-import https from "https";
 import * as cheerio from "cheerio";
 import { websites } from "../data/websites";
-import { fetchDateFromWebsite } from "../helpers/helpers";
+import {
+  fetchDateFromWebsite,
+  getHTTPAgentAcceptUnAuthorized,
+} from "../helpers/helpers";
 
 export async function getHijriDateSaudiArabia() {
   function onSuccess($: cheerio.CheerioAPI) {
@@ -13,9 +14,7 @@ export async function getHijriDateSaudiArabia() {
   }
 
   try {
-    const agent = new https.Agent({
-      rejectUnauthorized: false,
-    });
+    const agent = getHTTPAgentAcceptUnAuthorized();
 
     return await fetchDateFromWebsite({
       url: websites.SA,
