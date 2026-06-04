@@ -1,0 +1,52 @@
+name: Scrape Hijri Dates
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 00:00 UTC — catches moon sightings from prior evening (Gulf/Arab countries)
+    - cron: '0 12 * * *'  # 12:00 UTC — midday refresh
+    - cron: '0 18 * * *'  # 18:00 UTC — pre-sunset refresh for eastern timezones
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run scrapers without committing results'
+        type: boolean
+        default: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Playwright browsers
+        run: pnpm exec playwright install chromium --with-deps
+
+      - name: Run scrapers
+        run: pnpm scrape
+
+      - name: Commit updated data
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/hijri-dates.json data/status.json
+          git diff --staged --quiet || git commit -m "chore: update hijri dates [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+          git push
