@@ -51,7 +51,7 @@ npm install hijri-crescent
 pnpm add hijri-crescent
 ```
 
-Requires Node.js 20+.
+Requires Node.js 22+.
 
 ---
 
