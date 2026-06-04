@@ -36,9 +36,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile --ignore-scripts
 
-      - name: Install esbuild binary
-        run: node node_modules/esbuild/install.js
-
       - name: Install Playwright browsers
         run: pnpm exec playwright install chromium --with-deps
 
