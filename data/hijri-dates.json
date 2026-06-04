@@ -6,17 +6,13 @@
       "month": "Dhu-al-Hijjah",
       "year": "1447"
     },
-    "cachedAt": "2026-06-04T03:40:41.966Z",
+    "cachedAt": "2026-06-04T04:28:37.276Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
-    "status": "success",
-    "data": {
-      "date": "18",
-      "month": "Dhual-Hijja",
-      "year": "1447"
-    },
-    "cachedAt": "2026-06-04T03:40:41.966Z",
+    "status": "error",
+    "error": "SA scraper failed: AxiosError: timeout of 15000ms exceeded",
+    "cachedAt": "2026-06-04T04:28:37.276Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -26,7 +22,7 @@
       "month": "ZelHaj",
       "year": "1447"
     },
-    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "cachedAt": "2026-06-04T04:28:37.276Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -36,7 +32,7 @@
       "month": "Dhul Hijja",
       "year": "1447"
     },
-    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "cachedAt": "2026-06-04T04:28:37.276Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -46,13 +42,7 @@
       "month": "ذو الحجة",
       "year": "1447"
     },
-    "cachedAt": "2026-06-04T03:40:41.968Z",
+    "cachedAt": "2026-06-04T04:28:37.276Z",
     "source": "https://www.aliftaa.jo/Default"
-  },
-  "DZ": {
-    "status": "error",
-    "error": "No Hijri date found on marw.gov.dz",
-    "cachedAt": "2026-06-04T03:40:41.969Z",
-    "source": "https://marw.gov.dz/"
   }
 }
