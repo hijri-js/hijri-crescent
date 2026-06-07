@@ -1,14 +1,18 @@
 {
   "EG": {
-    "status": "error",
-    "error": "EG scraper failed: Error: read ECONNRESET",
-    "cachedAt": "2026-06-07T13:26:57.305Z",
+    "status": "success",
+    "data": {
+      "date": "21",
+      "month": "Dhu-al-Hijjah",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-07T19:25:46.561Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-07T13:26:57.305Z",
+    "cachedAt": "2026-06-07T19:25:46.561Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -18,7 +22,7 @@
       "month": "ZelHaj",
       "year": "1447"
     },
-    "cachedAt": "2026-06-07T13:26:57.305Z",
+    "cachedAt": "2026-06-07T19:25:46.561Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +32,7 @@
       "month": "Dhul Hijja",
       "year": "1447"
     },
-    "cachedAt": "2026-06-07T13:26:57.306Z",
+    "cachedAt": "2026-06-07T19:25:46.561Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +42,7 @@
       "month": "ذو الحجة",
       "year": "1447"
     },
-    "cachedAt": "2026-06-07T13:26:57.306Z",
+    "cachedAt": "2026-06-07T19:25:46.561Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
