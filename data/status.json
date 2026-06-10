@@ -1,27 +1,28 @@
 {
-  "lastRunAt": "2026-06-09T20:09:37.397Z",
+  "lastRunAt": "2026-06-10T04:24:55.553Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-06-09T20:10:07.438Z"
+      "cachedAt": "2026-06-10T04:25:26.554Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-06-09T20:10:07.439Z",
+      "cachedAt": "2026-06-10T04:25:26.554Z",
       "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-06-09T20:10:07.439Z"
+      "cachedAt": "2026-06-10T04:25:26.554Z"
     },
     "KW": {
       "status": "error",
-      "cachedAt": "2026-06-09T20:10:07.439Z",
-      "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded"
+      "cachedAt": "2026-06-10T04:25:26.554Z",
+      "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443"
     },
     "JO": {
-      "status": "success",
-      "cachedAt": "2026-06-09T20:10:07.439Z"
+      "status": "error",
+      "cachedAt": "2026-06-10T04:25:26.555Z",
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.aliftaa.jo/Default\", waiting until \"load\"\n"
     }
   }
 }
