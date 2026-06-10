@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-06-10T14:58:59.632Z",
+  "lastRunAt": "2026-06-10T20:33:15.635Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-06-10T14:59:29.663Z"
+      "cachedAt": "2026-06-10T20:33:45.672Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-06-10T14:59:29.663Z",
+      "cachedAt": "2026-06-10T20:33:45.672Z",
       "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-06-10T14:59:29.663Z"
+      "cachedAt": "2026-06-10T20:33:45.672Z"
     },
     "KW": {
       "status": "error",
-      "cachedAt": "2026-06-10T14:59:29.663Z",
-      "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443"
+      "cachedAt": "2026-06-10T20:33:45.672Z",
+      "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-06-10T14:59:29.663Z"
+      "cachedAt": "2026-06-10T20:33:45.672Z"
     }
   }
 }
