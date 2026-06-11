@@ -2,43 +2,43 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "24",
+      "date": "25",
       "month": "Dhu-al-Hijjah",
       "year": "1447"
     },
-    "cachedAt": "2026-06-10T20:33:45.672Z",
+    "cachedAt": "2026-06-11T04:47:29.646Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-10T20:33:45.672Z",
+    "cachedAt": "2026-06-11T04:47:29.646Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "24",
+      "date": "25",
       "month": "ZelHaj",
       "year": "1447"
     },
-    "cachedAt": "2026-06-10T20:33:45.672Z",
+    "cachedAt": "2026-06-11T04:47:29.646Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "error",
-    "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-10T20:33:45.672Z",
+    "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443",
+    "cachedAt": "2026-06-11T04:47:29.647Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "24",
+      "date": "25",
       "month": "ذو الحجة",
       "year": "1447"
     },
-    "cachedAt": "2026-06-10T20:33:45.672Z",
+    "cachedAt": "2026-06-11T04:47:29.647Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
