@@ -1,26 +1,26 @@
 {
-  "lastRunAt": "2026-06-13T04:38:03.754Z",
+  "lastRunAt": "2026-06-13T13:43:25.957Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-06-13T04:38:33.796Z"
+      "cachedAt": "2026-06-13T13:43:55.988Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-06-13T04:38:33.797Z",
+      "cachedAt": "2026-06-13T13:43:55.988Z",
       "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-06-13T04:38:33.797Z"
+      "cachedAt": "2026-06-13T13:43:55.988Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-06-13T04:38:33.797Z"
+      "cachedAt": "2026-06-13T13:43:55.988Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-06-13T04:38:33.797Z"
+      "cachedAt": "2026-06-13T13:43:55.988Z"
     }
   }
 }
