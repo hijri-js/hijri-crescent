@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-06-14T19:28:46.977Z",
+  "lastRunAt": "2026-06-15T05:12:33.200Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-06-14T19:29:17.329Z"
+      "cachedAt": "2026-06-15T05:13:03.234Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-06-14T19:29:17.329Z",
+      "cachedAt": "2026-06-15T05:13:03.234Z",
       "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "AE": {
-      "status": "error",
-      "cachedAt": "2026-06-14T19:29:17.329Z",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n"
+      "status": "success",
+      "cachedAt": "2026-06-15T05:13:03.235Z"
     },
     "KW": {
-      "status": "success",
-      "cachedAt": "2026-06-14T19:29:17.329Z"
+      "status": "error",
+      "cachedAt": "2026-06-15T05:13:03.235Z",
+      "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-06-14T19:29:17.329Z"
+      "cachedAt": "2026-06-15T05:13:03.235Z"
     }
   }
 }

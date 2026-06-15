@@ -2,43 +2,43 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "28",
+      "date": "29",
       "month": "Dhu-al-Hijjah",
       "year": "1447"
     },
-    "cachedAt": "2026-06-14T19:29:17.329Z",
+    "cachedAt": "2026-06-15T05:13:03.234Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-14T19:29:17.329Z",
+    "cachedAt": "2026-06-15T05:13:03.234Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "error",
-    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n",
-    "cachedAt": "2026-06-14T19:29:17.329Z",
+    "status": "success",
+    "data": {
+      "date": "29",
+      "month": "ZelHaj",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-15T05:13:03.235Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
-    "status": "success",
-    "data": {
-      "date": "28",
-      "month": "Dhul Hijja",
-      "year": "1447"
-    },
-    "cachedAt": "2026-06-14T19:29:17.329Z",
+    "status": "error",
+    "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded",
+    "cachedAt": "2026-06-15T05:13:03.235Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "28",
+      "date": "29",
       "month": "ذو الحجة",
       "year": "1447"
     },
-    "cachedAt": "2026-06-14T19:29:17.329Z",
+    "cachedAt": "2026-06-15T05:13:03.235Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
