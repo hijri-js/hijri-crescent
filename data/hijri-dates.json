@@ -6,13 +6,13 @@
       "month": "Dhu-al-Hijjah",
       "year": "1447"
     },
-    "cachedAt": "2026-06-15T17:03:51.300Z",
+    "cachedAt": "2026-06-15T20:58:00.695Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-15T17:03:51.300Z",
+    "cachedAt": "2026-06-15T20:58:00.695Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -22,13 +22,17 @@
       "month": "ZelHaj",
       "year": "1447"
     },
-    "cachedAt": "2026-06-15T17:03:51.301Z",
+    "cachedAt": "2026-06-15T20:58:00.695Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
-    "status": "error",
-    "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443",
-    "cachedAt": "2026-06-15T17:03:51.301Z",
+    "status": "success",
+    "data": {
+      "date": "29",
+      "month": "Dhul Hijja",
+      "year": "1447"
+    },
+    "cachedAt": "2026-06-15T20:58:00.695Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +42,7 @@
       "month": "ذو الحجة",
       "year": "1447"
     },
-    "cachedAt": "2026-06-15T17:03:51.301Z",
+    "cachedAt": "2026-06-15T20:58:00.695Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
