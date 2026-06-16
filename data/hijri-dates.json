@@ -2,47 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "29",
-      "month": "Dhu-al-Hijjah",
-      "year": "1447"
+      "date": "1",
+      "month": "Muharram",
+      "year": "1448"
     },
-    "cachedAt": "2026-06-15T20:58:00.695Z",
+    "cachedAt": "2026-06-16T05:19:54.346Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-15T20:58:00.695Z",
+    "cachedAt": "2026-06-16T05:19:54.346Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "29",
-      "month": "ZelHaj",
-      "year": "1447"
+      "date": "1",
+      "month": "Moharram",
+      "year": "1448"
     },
-    "cachedAt": "2026-06-15T20:58:00.695Z",
+    "cachedAt": "2026-06-16T05:19:54.346Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "29",
-      "month": "Dhul Hijja",
-      "year": "1447"
+      "date": "01",
+      "month": "Muharram",
+      "year": "1448"
     },
-    "cachedAt": "2026-06-15T20:58:00.695Z",
+    "cachedAt": "2026-06-16T05:19:54.346Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "29",
-      "month": "ذو الحجة",
-      "year": "1447"
+      "date": "01",
+      "month": "محرم",
+      "year": "1448"
     },
-    "cachedAt": "2026-06-15T20:58:00.695Z",
+    "cachedAt": "2026-06-16T05:19:54.346Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
