@@ -6,13 +6,13 @@
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-19T14:47:41.131Z",
+    "cachedAt": "2026-06-19T19:52:04.077Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-19T14:47:41.131Z",
+    "cachedAt": "2026-06-19T19:52:04.077Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -22,7 +22,7 @@
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-19T14:47:41.131Z",
+    "cachedAt": "2026-06-19T19:52:04.077Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -32,7 +32,7 @@
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-19T14:47:41.131Z",
+    "cachedAt": "2026-06-19T19:52:04.077Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -42,7 +42,7 @@
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-06-19T14:47:41.131Z",
+    "cachedAt": "2026-06-19T19:52:04.077Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
