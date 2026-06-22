@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-06-22T16:41:16.386Z",
+  "lastRunAt": "2026-06-22T20:51:01.494Z",
   "countries": {
     "EG": {
       "status": "error",
-      "cachedAt": "2026-06-22T16:41:46.419Z",
+      "cachedAt": "2026-06-22T20:51:31.525Z",
       "error": "EG scraper failed: Error: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-06-22T16:41:46.419Z",
+      "cachedAt": "2026-06-22T20:51:31.525Z",
       "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-06-22T16:41:46.419Z"
+      "cachedAt": "2026-06-22T20:51:31.525Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-06-22T16:41:46.419Z"
+      "cachedAt": "2026-06-22T20:51:31.525Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-06-22T16:41:46.419Z"
+      "cachedAt": "2026-06-22T20:51:31.525Z"
     }
   }
 }
