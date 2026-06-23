@@ -2,13 +2,13 @@
   "EG": {
     "status": "error",
     "error": "EG scraper failed: Error: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca",
-    "cachedAt": "2026-06-23T14:32:57.958Z",
+    "cachedAt": "2026-06-23T20:10:02.513Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-23T14:32:57.959Z",
+    "cachedAt": "2026-06-23T20:10:02.513Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -18,7 +18,7 @@
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-23T14:32:57.959Z",
+    "cachedAt": "2026-06-23T20:10:02.513Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +28,7 @@
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-23T14:32:57.959Z",
+    "cachedAt": "2026-06-23T20:10:02.513Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +38,7 @@
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-06-23T14:32:57.959Z",
+    "cachedAt": "2026-06-23T20:10:02.513Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
