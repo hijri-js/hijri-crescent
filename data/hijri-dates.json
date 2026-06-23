@@ -2,43 +2,43 @@
   "EG": {
     "status": "error",
     "error": "EG scraper failed: Error: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca",
-    "cachedAt": "2026-06-22T20:51:31.525Z",
+    "cachedAt": "2026-06-23T04:11:04.068Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-22T20:51:31.525Z",
+    "cachedAt": "2026-06-23T04:11:04.068Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "7",
+      "date": "8",
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-22T20:51:31.525Z",
+    "cachedAt": "2026-06-23T04:11:04.068Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "07",
+      "date": "08",
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-22T20:51:31.525Z",
+    "cachedAt": "2026-06-23T04:11:04.068Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "07",
+      "date": "08",
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-06-22T20:51:31.525Z",
+    "cachedAt": "2026-06-23T04:11:04.068Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
