@@ -2,47 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "11",
+      "date": "12",
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-26T19:51:08.868Z",
+    "cachedAt": "2026-06-27T04:07:42.922Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-06-26T19:51:08.868Z",
+    "cachedAt": "2026-06-27T04:07:42.923Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "11",
+      "date": "12",
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-26T19:51:08.868Z",
+    "cachedAt": "2026-06-27T04:07:42.923Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "11",
+      "date": "12",
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-06-26T19:51:08.868Z",
+    "cachedAt": "2026-06-27T04:07:42.923Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "11",
+      "date": "12",
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-06-26T19:51:08.868Z",
+    "cachedAt": "2026-06-27T04:07:42.923Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
