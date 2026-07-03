@@ -1,26 +1,27 @@
 {
-  "lastRunAt": "2026-07-03T03:57:04.485Z",
+  "lastRunAt": "2026-07-03T13:46:57.263Z",
   "countries": {
     "EG": {
-      "status": "success",
-      "cachedAt": "2026-07-03T03:57:21.108Z"
+      "status": "error",
+      "cachedAt": "2026-07-03T13:47:28.879Z",
+      "error": "EG scraper failed: AxiosError: stream has been aborted"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-07-03T03:57:21.108Z",
-      "error": "SA scraper failed: Error: getaddrinfo EAI_AGAIN www.ummulqura.org.sa"
+      "cachedAt": "2026-07-03T13:47:28.880Z",
+      "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-07-03T03:57:21.108Z"
+      "cachedAt": "2026-07-03T13:47:28.880Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-07-03T03:57:21.108Z"
+      "cachedAt": "2026-07-03T13:47:28.880Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-07-03T03:57:21.108Z"
+      "cachedAt": "2026-07-03T13:47:28.880Z"
     }
   }
 }
