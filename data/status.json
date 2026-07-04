@@ -1,26 +1,27 @@
 {
-  "lastRunAt": "2026-07-04T13:05:41.283Z",
+  "lastRunAt": "2026-07-04T19:15:53.601Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-07-04T13:05:56.660Z"
+      "cachedAt": "2026-07-04T19:16:23.636Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-07-04T13:05:56.660Z",
+      "cachedAt": "2026-07-04T19:16:23.636Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-07-04T13:05:56.661Z"
+      "cachedAt": "2026-07-04T19:16:23.636Z"
     },
     "KW": {
-      "status": "success",
-      "cachedAt": "2026-07-04T13:05:56.661Z"
+      "status": "error",
+      "cachedAt": "2026-07-04T19:16:23.636Z",
+      "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-07-04T13:05:56.661Z"
+      "cachedAt": "2026-07-04T19:16:23.636Z"
     }
   }
 }
