@@ -2,43 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "19",
+      "date": "20",
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-07-04T19:16:23.636Z",
+    "cachedAt": "2026-07-05T04:09:19.549Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-04T19:16:23.636Z",
+    "cachedAt": "2026-07-05T04:09:19.549Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "19",
+      "date": "20",
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-07-04T19:16:23.636Z",
+    "cachedAt": "2026-07-05T04:09:19.549Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
-    "status": "error",
-    "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded",
-    "cachedAt": "2026-07-04T19:16:23.636Z",
+    "status": "success",
+    "data": {
+      "date": "20",
+      "month": "Muharram",
+      "year": "1448"
+    },
+    "cachedAt": "2026-07-05T04:09:19.549Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "19",
+      "date": "20",
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-07-04T19:16:23.636Z",
+    "cachedAt": "2026-07-05T04:09:19.549Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
