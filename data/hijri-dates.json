@@ -1,44 +1,48 @@
 {
   "EG": {
-    "status": "error",
-    "error": "EG scraper failed: TypeError: Cannot read properties of undefined (reading 'split')",
-    "cachedAt": "2026-07-12T19:08:05.372Z",
+    "status": "success",
+    "data": {
+      "date": "29",
+      "month": "Muharram",
+      "year": "1448"
+    },
+    "cachedAt": "2026-07-14T13:15:14.649Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-12T19:08:05.372Z",
+    "cachedAt": "2026-07-14T13:15:14.649Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "27",
+      "date": "29",
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-07-12T19:08:05.372Z",
+    "cachedAt": "2026-07-14T13:15:14.649Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "27",
+      "date": "29",
       "month": "Muharram",
       "year": "1448"
     },
-    "cachedAt": "2026-07-12T19:08:05.372Z",
+    "cachedAt": "2026-07-14T13:15:14.649Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "27",
+      "date": "29",
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-07-12T19:08:05.372Z",
+    "cachedAt": "2026-07-14T13:15:14.649Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
