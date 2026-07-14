@@ -6,10 +6,13 @@ export async function getHijriDateEgypt(): Promise<HijriDateData> {
   return fetchDateFromWebsite({
     url: websites.EG,
     onSuccess: ($) => {
-      const text = $('.he-text').first().text();
-      const [date, month, year] = text.split('"')[1].split(' ');
+      const text = $('.he-text').first().find('span').text().trim();
+      const parts = text.split(/\s+/);
+      const date = parts[0];
+      const year = parts[parts.length - 1];
+      const month = parts.slice(1, -1).join(' ');
       if (!date || !month || !year) throw new Error(`Unexpected format from EG: ${JSON.stringify(text)}`);
-      return { date: date.trim(), month: month.trim(), year: year.trim() };
+      return { date, month, year };
     },
     onFailure: (error) => { throw new Error(`EG scraper failed: ${error}`); },
   });
