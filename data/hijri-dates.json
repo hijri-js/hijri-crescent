@@ -6,13 +6,13 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-15T13:18:55.298Z",
+    "cachedAt": "2026-07-15T19:13:27.315Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-15T13:18:55.298Z",
+    "cachedAt": "2026-07-15T19:13:27.315Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -22,7 +22,7 @@
       "month": "Moharram",
       "year": "1448"
     },
-    "cachedAt": "2026-07-15T13:18:55.298Z",
+    "cachedAt": "2026-07-15T19:13:27.315Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -32,7 +32,7 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-15T13:18:55.298Z",
+    "cachedAt": "2026-07-15T19:13:27.315Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -42,7 +42,7 @@
       "month": "محرم",
       "year": "1448"
     },
-    "cachedAt": "2026-07-15T13:18:55.298Z",
+    "cachedAt": "2026-07-15T19:13:27.315Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
