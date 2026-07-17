@@ -6,29 +6,29 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-17T03:25:46.672Z",
+    "cachedAt": "2026-07-17T13:10:44.916Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-17T03:25:46.672Z",
+    "cachedAt": "2026-07-17T13:10:44.916Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "error",
-    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n",
-    "cachedAt": "2026-07-17T03:25:46.672Z",
-    "source": "https://www.awqaf.gov.ae/?lang=en"
-  },
-  "KW": {
     "status": "success",
     "data": {
-      "date": "03",
+      "date": "2",
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-17T03:25:46.672Z",
+    "cachedAt": "2026-07-17T13:10:44.916Z",
+    "source": "https://www.awqaf.gov.ae/?lang=en"
+  },
+  "KW": {
+    "status": "error",
+    "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443",
+    "cachedAt": "2026-07-17T13:10:44.916Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +38,7 @@
       "month": "صفر",
       "year": "1448"
     },
-    "cachedAt": "2026-07-17T03:25:46.672Z",
+    "cachedAt": "2026-07-17T13:10:44.916Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
