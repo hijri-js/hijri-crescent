@@ -1,27 +1,26 @@
 {
-  "lastRunAt": "2026-07-17T13:10:28.863Z",
+  "lastRunAt": "2026-07-17T19:11:51.783Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-07-17T13:10:44.916Z"
+      "cachedAt": "2026-07-17T19:12:06.749Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-07-17T13:10:44.916Z",
+      "cachedAt": "2026-07-17T19:12:06.749Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-07-17T13:10:44.916Z"
+      "cachedAt": "2026-07-17T19:12:06.749Z"
     },
     "KW": {
-      "status": "error",
-      "cachedAt": "2026-07-17T13:10:44.916Z",
-      "error": "KW scraper failed: Error: connect ECONNREFUSED 62.215.182.43:443"
+      "status": "success",
+      "cachedAt": "2026-07-17T19:12:06.749Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-07-17T13:10:44.916Z"
+      "cachedAt": "2026-07-17T19:12:06.749Z"
     }
   }
 }
