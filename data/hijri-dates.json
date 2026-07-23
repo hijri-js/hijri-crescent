@@ -6,23 +6,19 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-23T13:29:07.675Z",
+    "cachedAt": "2026-07-23T19:20:36.196Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-23T13:29:07.675Z",
+    "cachedAt": "2026-07-23T19:20:36.196Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "success",
-    "data": {
-      "date": "8",
-      "month": "Safar",
-      "year": "1448"
-    },
-    "cachedAt": "2026-07-23T13:29:07.675Z",
+    "status": "error",
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n",
+    "cachedAt": "2026-07-23T19:20:36.197Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -32,7 +28,7 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-23T13:29:07.675Z",
+    "cachedAt": "2026-07-23T19:20:36.197Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -42,7 +38,7 @@
       "month": "صفر",
       "year": "1448"
     },
-    "cachedAt": "2026-07-23T13:29:07.675Z",
+    "cachedAt": "2026-07-23T19:20:36.197Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
