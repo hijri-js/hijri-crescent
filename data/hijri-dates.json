@@ -2,47 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "8",
+      "date": "9",
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-22T19:22:26.842Z",
+    "cachedAt": "2026-07-23T03:33:12.145Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-22T19:22:26.842Z",
+    "cachedAt": "2026-07-23T03:33:12.145Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "7",
+      "date": "8",
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-22T19:22:26.842Z",
+    "cachedAt": "2026-07-23T03:33:12.145Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "08",
+      "date": "09",
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-22T19:22:26.842Z",
+    "cachedAt": "2026-07-23T03:33:12.145Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "07",
+      "date": "08",
       "month": "صفر",
       "year": "1448"
     },
-    "cachedAt": "2026-07-22T19:22:26.842Z",
+    "cachedAt": "2026-07-23T03:33:12.145Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
