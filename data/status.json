@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-07-23T19:20:04.395Z",
+  "lastRunAt": "2026-07-24T03:28:17.061Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-07-23T19:20:36.196Z"
+      "cachedAt": "2026-07-24T03:28:47.094Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-07-23T19:20:36.196Z",
+      "cachedAt": "2026-07-24T03:28:47.095Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
-      "status": "error",
-      "cachedAt": "2026-07-23T19:20:36.197Z",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n"
+      "status": "success",
+      "cachedAt": "2026-07-24T03:28:47.095Z"
     },
     "KW": {
-      "status": "success",
-      "cachedAt": "2026-07-23T19:20:36.197Z"
+      "status": "error",
+      "cachedAt": "2026-07-24T03:28:47.095Z",
+      "error": "KW scraper failed: AxiosError: timeout of 30000ms exceeded"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-07-23T19:20:36.197Z"
+      "cachedAt": "2026-07-24T03:28:47.095Z"
     }
   }
 }
