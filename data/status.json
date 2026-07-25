@@ -1,27 +1,26 @@
 {
-  "lastRunAt": "2026-07-25T13:06:33.223Z",
+  "lastRunAt": "2026-07-25T19:08:46.976Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-07-25T13:07:05.170Z"
+      "cachedAt": "2026-07-25T19:09:03.507Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-07-25T13:07:05.170Z",
+      "cachedAt": "2026-07-25T19:09:03.507Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-07-25T13:07:05.170Z"
+      "cachedAt": "2026-07-25T19:09:03.507Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-07-25T13:07:05.170Z"
+      "cachedAt": "2026-07-25T19:09:03.507Z"
     },
     "JO": {
-      "status": "error",
-      "cachedAt": "2026-07-25T13:07:05.170Z",
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.aliftaa.jo/Default\", waiting until \"load\"\n"
+      "status": "success",
+      "cachedAt": "2026-07-25T19:09:03.507Z"
     }
   }
 }
