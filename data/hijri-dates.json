@@ -6,19 +6,19 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-30T02:55:54.022Z",
+    "cachedAt": "2026-07-30T13:41:57.103Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-07-30T02:55:54.022Z",
+    "cachedAt": "2026-07-30T13:41:57.104Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\"",
-    "cachedAt": "2026-07-30T02:55:54.022Z",
+    "cachedAt": "2026-07-30T13:41:57.104Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +28,7 @@
       "month": "Safar",
       "year": "1448"
     },
-    "cachedAt": "2026-07-30T02:55:54.022Z",
+    "cachedAt": "2026-07-30T13:41:57.104Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +38,7 @@
       "month": "صفر",
       "year": "1448"
     },
-    "cachedAt": "2026-07-30T02:55:54.022Z",
+    "cachedAt": "2026-07-30T13:41:57.104Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
