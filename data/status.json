@@ -1,26 +1,26 @@
 {
-  "lastRunAt": "2026-08-19T01:42:45.790Z",
+  "lastRunAt": "2026-08-19T12:31:04.055Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-08-19T01:43:00.379Z"
+      "cachedAt": "2026-08-19T12:31:19.607Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-08-19T01:43:00.380Z",
+      "cachedAt": "2026-08-19T12:31:19.608Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-08-19T01:43:00.380Z"
+      "cachedAt": "2026-08-19T12:31:19.608Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-08-19T01:43:00.380Z"
+      "cachedAt": "2026-08-19T12:31:19.608Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-08-19T01:43:00.380Z"
+      "cachedAt": "2026-08-19T12:31:19.608Z"
     }
   }
 }
