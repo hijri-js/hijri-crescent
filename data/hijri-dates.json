@@ -1,24 +1,24 @@
 {
   "EG": {
-    "status": "error",
-    "error": "EG scraper failed: AxiosError: Request failed with status code 500",
-    "cachedAt": "2026-08-21T01:46:40.263Z",
+    "status": "success",
+    "data": {
+      "date": "8",
+      "month": "Rabi' al-Awwal",
+      "year": "1448"
+    },
+    "cachedAt": "2026-08-21T12:31:23.404Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-08-21T01:46:40.263Z",
+    "cachedAt": "2026-08-21T12:31:23.404Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "success",
-    "data": {
-      "date": "8",
-      "month": "RabiAlAwal",
-      "year": "1448"
-    },
-    "cachedAt": "2026-08-21T01:46:40.263Z",
+    "status": "error",
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n",
+    "cachedAt": "2026-08-21T12:31:23.404Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +28,7 @@
       "month": "Rabi al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-08-21T01:46:40.263Z",
+    "cachedAt": "2026-08-21T12:31:23.404Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +38,7 @@
       "month": "ربيع الأول",
       "year": "1448"
     },
-    "cachedAt": "2026-08-21T01:46:40.263Z",
+    "cachedAt": "2026-08-21T12:31:23.404Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
