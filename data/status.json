@@ -1,26 +1,27 @@
 {
-  "lastRunAt": "2026-08-21T18:37:56.788Z",
+  "lastRunAt": "2026-08-22T01:40:10.800Z",
   "countries": {
     "EG": {
-      "status": "success",
-      "cachedAt": "2026-08-21T18:38:11.979Z"
+      "status": "error",
+      "cachedAt": "2026-08-22T01:40:27.831Z",
+      "error": "EG scraper failed: AxiosError: Request failed with status code 500"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-08-21T18:38:11.979Z",
+      "cachedAt": "2026-08-22T01:40:27.831Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "success",
-      "cachedAt": "2026-08-21T18:38:11.979Z"
+      "cachedAt": "2026-08-22T01:40:27.831Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-08-21T18:38:11.979Z"
+      "cachedAt": "2026-08-22T01:40:27.831Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-08-21T18:38:11.979Z"
+      "cachedAt": "2026-08-22T01:40:27.832Z"
     }
   }
 }
