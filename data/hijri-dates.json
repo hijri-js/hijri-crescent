@@ -1,14 +1,18 @@
 {
   "EG": {
-    "status": "error",
-    "error": "EG scraper failed: AxiosError: Request failed with status code 500",
-    "cachedAt": "2026-08-22T01:40:27.831Z",
+    "status": "success",
+    "data": {
+      "date": "9",
+      "month": "Rabi' al-Awwal",
+      "year": "1448"
+    },
+    "cachedAt": "2026-08-22T12:22:37.583Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-08-22T01:40:27.831Z",
+    "cachedAt": "2026-08-22T12:22:37.583Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -18,7 +22,7 @@
       "month": "RabiAlAwal",
       "year": "1448"
     },
-    "cachedAt": "2026-08-22T01:40:27.831Z",
+    "cachedAt": "2026-08-22T12:22:37.583Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +32,7 @@
       "month": "Rabi al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-08-22T01:40:27.831Z",
+    "cachedAt": "2026-08-22T12:22:37.583Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +42,7 @@
       "month": "ربيع الأول",
       "year": "1448"
     },
-    "cachedAt": "2026-08-22T01:40:27.832Z",
+    "cachedAt": "2026-08-22T12:22:37.583Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
