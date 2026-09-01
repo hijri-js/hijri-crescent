@@ -1,26 +1,27 @@
 {
-  "lastRunAt": "2026-09-01T15:50:31.598Z",
+  "lastRunAt": "2026-09-01T20:41:19.265Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-09-01T15:50:46.450Z"
+      "cachedAt": "2026-09-01T20:41:49.659Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-09-01T15:50:46.450Z",
+      "cachedAt": "2026-09-01T20:41:49.659Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
-      "status": "success",
-      "cachedAt": "2026-09-01T15:50:46.450Z"
+      "status": "error",
+      "cachedAt": "2026-09-01T20:41:49.659Z",
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-09-01T15:50:46.450Z"
+      "cachedAt": "2026-09-01T20:41:49.659Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-09-01T15:50:46.450Z"
+      "cachedAt": "2026-09-01T20:41:49.659Z"
     }
   }
 }
