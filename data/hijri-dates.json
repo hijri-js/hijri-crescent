@@ -2,47 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "20",
+      "date": "21",
       "month": "Rabi' al-Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-02T20:39:18.216Z",
+    "cachedAt": "2026-09-03T04:04:58.077Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-09-02T20:39:18.216Z",
+    "cachedAt": "2026-09-03T04:04:58.077Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "success",
     "data": {
-      "date": "20",
+      "date": "21",
       "month": "RabiAlAwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-02T20:39:18.216Z",
+    "cachedAt": "2026-09-03T04:04:58.077Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "20",
+      "date": "21",
       "month": "Rabi al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-02T20:39:18.216Z",
+    "cachedAt": "2026-09-03T04:04:58.077Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "20",
+      "date": "21",
       "month": "ربيع الأول",
       "year": "1448"
     },
-    "cachedAt": "2026-09-02T20:39:18.216Z",
+    "cachedAt": "2026-09-03T04:04:58.077Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
