@@ -6,13 +6,13 @@
       "month": "Rabi' al-Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T15:31:43.254Z",
+    "cachedAt": "2026-09-04T20:25:17.471Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-09-04T15:31:43.254Z",
+    "cachedAt": "2026-09-04T20:25:17.472Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -22,7 +22,7 @@
       "month": "RabiAlAwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T15:31:43.254Z",
+    "cachedAt": "2026-09-04T20:25:17.472Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -32,7 +32,7 @@
       "month": "Rabi al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T15:31:43.254Z",
+    "cachedAt": "2026-09-04T20:25:17.472Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -42,7 +42,7 @@
       "month": "ربيع الأول",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T15:31:43.254Z",
+    "cachedAt": "2026-09-04T20:25:17.472Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
