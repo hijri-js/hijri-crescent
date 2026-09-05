@@ -2,47 +2,43 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "22",
+      "date": "23",
       "month": "Rabi' al-Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T20:25:17.471Z",
+    "cachedAt": "2026-09-05T04:05:55.577Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-09-04T20:25:17.472Z",
+    "cachedAt": "2026-09-05T04:05:55.577Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "success",
-    "data": {
-      "date": "22",
-      "month": "RabiAlAwal",
-      "year": "1448"
-    },
-    "cachedAt": "2026-09-04T20:25:17.472Z",
+    "status": "error",
+    "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nSomething went wrong\\nHome\\nPrevious\\nSitemap\\nAbout us\\nAbout us\\nChairman\\nCustomer Happiness Char\"",
+    "cachedAt": "2026-09-05T04:05:55.577Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "22",
+      "date": "23",
       "month": "Rabi al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T20:25:17.472Z",
+    "cachedAt": "2026-09-05T04:05:55.577Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "22",
+      "date": "23",
       "month": "ربيع الأول",
       "year": "1448"
     },
-    "cachedAt": "2026-09-04T20:25:17.472Z",
+    "cachedAt": "2026-09-05T04:05:55.577Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
