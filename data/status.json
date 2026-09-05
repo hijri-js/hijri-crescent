@@ -1,27 +1,26 @@
 {
-  "lastRunAt": "2026-09-05T04:05:26.945Z",
+  "lastRunAt": "2026-09-05T14:19:29.513Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-09-05T04:05:55.577Z"
+      "cachedAt": "2026-09-05T14:19:43.571Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-09-05T04:05:55.577Z",
+      "cachedAt": "2026-09-05T14:19:43.571Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
-      "status": "error",
-      "cachedAt": "2026-09-05T04:05:55.577Z",
-      "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nSomething went wrong\\nHome\\nPrevious\\nSitemap\\nAbout us\\nAbout us\\nChairman\\nCustomer Happiness Char\""
+      "status": "success",
+      "cachedAt": "2026-09-05T14:19:43.571Z"
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-09-05T04:05:55.577Z"
+      "cachedAt": "2026-09-05T14:19:43.571Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-09-05T04:05:55.577Z"
+      "cachedAt": "2026-09-05T14:19:43.571Z"
     }
   }
 }
