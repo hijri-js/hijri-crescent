@@ -2,43 +2,47 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "30",
-      "month": "Rabi' al-Awwal",
+      "date": "1",
+      "month": "Rabi' al-Akhar",
       "year": "1448"
     },
-    "cachedAt": "2026-09-12T20:18:07.477Z",
+    "cachedAt": "2026-09-13T04:28:06.148Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-09-12T20:18:07.477Z",
+    "cachedAt": "2026-09-13T04:28:06.148Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
-    "status": "error",
-    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.awqaf.gov.ae/?lang=en\", waiting until \"load\"\n",
-    "cachedAt": "2026-09-12T20:18:07.477Z",
+    "status": "success",
+    "data": {
+      "date": "2",
+      "month": "RabiAlThani",
+      "year": "1448"
+    },
+    "cachedAt": "2026-09-13T04:28:06.148Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "01",
+      "date": "02",
       "month": "Rabi al Thani",
       "year": "1448"
     },
-    "cachedAt": "2026-09-12T20:18:07.477Z",
+    "cachedAt": "2026-09-13T04:28:06.148Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "30",
-      "month": "ربيع الأول",
+      "date": "01",
+      "month": "ربيع الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-09-12T20:18:07.477Z",
+    "cachedAt": "2026-09-13T04:28:06.148Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
