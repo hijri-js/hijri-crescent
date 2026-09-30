@@ -6,13 +6,13 @@
       "month": "Rabi' al-Akhar",
       "year": "1448"
     },
-    "cachedAt": "2026-09-30T17:25:48.274Z",
+    "cachedAt": "2026-09-30T21:58:18.990Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-09-30T17:25:48.274Z",
+    "cachedAt": "2026-09-30T21:58:18.990Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
@@ -22,27 +22,27 @@
       "month": "RabiAlThani",
       "year": "1448"
     },
-    "cachedAt": "2026-09-30T17:25:48.274Z",
+    "cachedAt": "2026-09-30T21:58:18.990Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "19",
+      "date": "20",
       "month": "Rabi al Thani",
       "year": "1448"
     },
-    "cachedAt": "2026-09-30T17:25:48.274Z",
+    "cachedAt": "2026-09-30T21:58:18.990Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "18",
+      "date": "19",
       "month": "ربيع الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-09-30T17:25:48.274Z",
+    "cachedAt": "2026-09-30T21:58:18.990Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
