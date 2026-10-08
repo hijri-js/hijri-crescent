@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-10-07T22:50:57.264Z",
+  "lastRunAt": "2026-10-08T05:42:45.029Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-10-07T22:51:25.326Z"
+      "cachedAt": "2026-10-08T05:43:16.219Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-10-07T22:51:25.326Z",
+      "cachedAt": "2026-10-08T05:43:16.220Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "error",
-      "cachedAt": "2026-10-07T22:51:25.326Z",
-      "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a slideshow. Use the pause \""
+      "cachedAt": "2026-10-08T05:43:16.220Z",
+      "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\""
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-10-07T22:51:25.326Z"
+      "cachedAt": "2026-10-08T05:43:16.220Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-10-07T22:51:25.326Z"
+      "cachedAt": "2026-10-08T05:43:16.220Z"
     }
   }
 }
