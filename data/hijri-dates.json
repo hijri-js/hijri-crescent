@@ -6,39 +6,39 @@
       "month": "Rabi' al-Akhar",
       "year": "1448"
     },
-    "cachedAt": "2026-10-10T16:42:11.823Z",
+    "cachedAt": "2026-10-10T21:17:16.580Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-10-10T16:42:11.823Z",
+    "cachedAt": "2026-10-10T21:17:16.581Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a slideshow. Use the pause \"",
-    "cachedAt": "2026-10-10T16:42:11.823Z",
+    "cachedAt": "2026-10-10T21:17:16.581Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "29",
+      "date": "30",
       "month": "Rabi al Thani",
       "year": "1448"
     },
-    "cachedAt": "2026-10-10T16:42:11.823Z",
+    "cachedAt": "2026-10-10T21:17:16.581Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "28",
+      "date": "29",
       "month": "ربيع الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-10-10T16:42:11.823Z",
+    "cachedAt": "2026-10-10T21:17:16.581Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
