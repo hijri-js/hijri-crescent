@@ -1,28 +1,28 @@
 {
-  "lastRunAt": "2026-10-14T04:33:39.319Z",
+  "lastRunAt": "2026-10-14T16:15:02.317Z",
   "countries": {
     "EG": {
       "status": "error",
-      "cachedAt": "2026-10-14T04:34:07.322Z",
-      "error": "EG scraper failed: Error: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+      "cachedAt": "2026-10-14T16:15:30.566Z",
+      "error": "EG scraper failed: Error: Unexpected format from EG: \"--\""
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-10-14T04:34:07.323Z",
+      "cachedAt": "2026-10-14T16:15:30.566Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "error",
-      "cachedAt": "2026-10-14T04:34:07.323Z",
+      "cachedAt": "2026-10-14T16:15:30.566Z",
       "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a slideshow. Use the pause \""
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-10-14T04:34:07.323Z"
+      "cachedAt": "2026-10-14T16:15:30.566Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-10-14T04:34:07.323Z"
+      "cachedAt": "2026-10-14T16:15:30.566Z"
     }
   }
 }
