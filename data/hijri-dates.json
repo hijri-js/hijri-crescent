@@ -2,39 +2,39 @@
   "EG": {
     "status": "error",
     "error": "EG scraper failed: Error: Unexpected format from EG: \"--\"",
-    "cachedAt": "2026-10-14T16:15:30.566Z",
+    "cachedAt": "2026-10-14T21:22:28.323Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-10-14T16:15:30.566Z",
+    "cachedAt": "2026-10-14T21:22:28.323Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a slideshow. Use the pause \"",
-    "cachedAt": "2026-10-14T16:15:30.566Z",
+    "cachedAt": "2026-10-14T21:22:28.323Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "03",
+      "date": "04",
       "month": "Jumada al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-10-14T16:15:30.566Z",
+    "cachedAt": "2026-10-14T21:22:28.323Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "03",
+      "date": "04",
       "month": "جمادى الأولى",
       "year": "1448"
     },
-    "cachedAt": "2026-10-14T16:15:30.566Z",
+    "cachedAt": "2026-10-14T21:22:28.323Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
