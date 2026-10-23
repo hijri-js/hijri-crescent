@@ -1,27 +1,28 @@
 {
-  "lastRunAt": "2026-10-23T04:27:19.633Z",
+  "lastRunAt": "2026-10-23T16:12:03.944Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-10-23T04:27:49.327Z"
+      "cachedAt": "2026-10-23T16:12:34.319Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-10-23T04:27:49.327Z",
+      "cachedAt": "2026-10-23T16:12:34.319Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "error",
-      "cachedAt": "2026-10-23T04:27:49.327Z",
+      "cachedAt": "2026-10-23T16:12:34.319Z",
       "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nShow submenu for Services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a\""
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-10-23T04:27:49.327Z"
+      "cachedAt": "2026-10-23T16:12:34.319Z"
     },
     "JO": {
-      "status": "success",
-      "cachedAt": "2026-10-23T04:27:49.327Z"
+      "status": "error",
+      "cachedAt": "2026-10-23T16:12:34.319Z",
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.aliftaa.jo/Default\", waiting until \"load\"\n"
     }
   }
 }
