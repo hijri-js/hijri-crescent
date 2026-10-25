@@ -6,19 +6,19 @@
       "month": "Jumada al-Ula",
       "year": "1448"
     },
-    "cachedAt": "2026-10-25T04:19:39.561Z",
+    "cachedAt": "2026-10-25T15:21:01.918Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-10-25T04:19:39.561Z",
+    "cachedAt": "2026-10-25T15:21:01.918Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\"",
-    "cachedAt": "2026-10-25T04:19:39.561Z",
+    "cachedAt": "2026-10-25T15:21:01.918Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -28,7 +28,7 @@
       "month": "Jumada al Awwal",
       "year": "1448"
     },
-    "cachedAt": "2026-10-25T04:19:39.561Z",
+    "cachedAt": "2026-10-25T15:21:01.918Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -38,7 +38,7 @@
       "month": "جمادى الأولى",
       "year": "1448"
     },
-    "cachedAt": "2026-10-25T04:19:39.561Z",
+    "cachedAt": "2026-10-25T15:21:01.918Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
