@@ -1,27 +1,27 @@
 {
-  "lastRunAt": "2026-11-02T05:39:15.592Z",
+  "lastRunAt": "2026-11-02T21:12:29.539Z",
   "countries": {
     "EG": {
       "status": "success",
-      "cachedAt": "2026-11-02T05:39:46.887Z"
+      "cachedAt": "2026-11-02T21:13:01.408Z"
     },
     "SA": {
       "status": "error",
-      "cachedAt": "2026-11-02T05:39:46.888Z",
+      "cachedAt": "2026-11-02T21:13:01.408Z",
       "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year="
     },
     "AE": {
       "status": "error",
-      "cachedAt": "2026-11-02T05:39:46.888Z",
+      "cachedAt": "2026-11-02T21:13:01.408Z",
       "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\""
     },
     "KW": {
       "status": "success",
-      "cachedAt": "2026-11-02T05:39:46.888Z"
+      "cachedAt": "2026-11-02T21:13:01.408Z"
     },
     "JO": {
       "status": "success",
-      "cachedAt": "2026-11-02T05:39:46.888Z"
+      "cachedAt": "2026-11-02T21:13:01.408Z"
     }
   }
 }
