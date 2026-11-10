@@ -2,43 +2,43 @@
   "EG": {
     "status": "success",
     "data": {
-      "date": "30",
-      "month": "Jumada al-Ula",
+      "date": "1",
+      "month": "Jumada al-Akhirah",
       "year": "1448"
     },
-    "cachedAt": "2026-11-10T19:08:15.436Z",
+    "cachedAt": "2026-11-10T22:56:51.760Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-11-10T19:08:15.436Z",
+    "cachedAt": "2026-11-10T22:56:51.760Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\"",
-    "cachedAt": "2026-11-10T19:08:15.436Z",
+    "cachedAt": "2026-11-10T22:56:51.760Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "30",
-      "month": "Jumada al Awwal",
+      "date": "01",
+      "month": "Jumada al Thaniyah",
       "year": "1448"
     },
-    "cachedAt": "2026-11-10T19:08:15.436Z",
+    "cachedAt": "2026-11-10T22:56:51.760Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "30",
-      "month": "جمادى الأولى",
+      "date": "01",
+      "month": "جمادى الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-11-10T19:08:15.437Z",
+    "cachedAt": "2026-11-10T22:56:51.760Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
