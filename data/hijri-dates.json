@@ -1,20 +1,24 @@
 {
   "EG": {
-    "status": "error",
-    "error": "EG scraper failed: AxiosError: Request failed with status code 500",
-    "cachedAt": "2026-11-12T00:10:19.503Z",
+    "status": "success",
+    "data": {
+      "date": "2",
+      "month": "Jumada al-Akhirah",
+      "year": "1448"
+    },
+    "cachedAt": "2026-11-12T06:54:26.429Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-11-12T00:10:19.503Z",
+    "cachedAt": "2026-11-12T06:54:26.429Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
     "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\"",
-    "cachedAt": "2026-11-12T00:10:19.503Z",
+    "cachedAt": "2026-11-12T06:54:26.429Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
@@ -24,7 +28,7 @@
       "month": "Jumada al Thaniyah",
       "year": "1448"
     },
-    "cachedAt": "2026-11-12T00:10:19.503Z",
+    "cachedAt": "2026-11-12T06:54:26.429Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
@@ -34,7 +38,7 @@
       "month": "جمادى الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-11-12T00:10:19.503Z",
+    "cachedAt": "2026-11-12T06:54:26.429Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
