@@ -1,44 +1,40 @@
 {
   "EG": {
-    "status": "success",
-    "data": {
-      "date": "1",
-      "month": "Jumada al-Akhirah",
-      "year": "1448"
-    },
-    "cachedAt": "2026-11-11T19:04:41.681Z",
+    "status": "error",
+    "error": "EG scraper failed: AxiosError: Request failed with status code 500",
+    "cachedAt": "2026-11-12T00:10:19.503Z",
     "source": "https://www.dar-alifta.org/en"
   },
   "SA": {
     "status": "error",
     "error": "SA scraper failed: Error: Unexpected format from SA: date= month= year=",
-    "cachedAt": "2026-11-11T19:04:41.682Z",
+    "cachedAt": "2026-11-12T00:10:19.503Z",
     "source": "https://www.ummulqura.org.sa/"
   },
   "AE": {
     "status": "error",
-    "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"Skip to main content\\nHome\\nOur services\\nShow submenu for Services\\nDigital participation\\nshow submenu for Digital participation\\nOpen data\\nShow submenu for open data\\nAbout us\\nShow submenu for About\\nArtificial Intelligence\\nAccessibility\\nGeneral Authority Of Islamic Affairs, Endowments & Zakat\\n\\nThis is a\"",
-    "cachedAt": "2026-11-11T19:04:41.682Z",
+    "error": "No Hijri date found on awqaf.gov.ae after 2 attempts. Sample: \"‌\\n‌\\n‌\\n\"",
+    "cachedAt": "2026-11-12T00:10:19.503Z",
     "source": "https://www.awqaf.gov.ae/?lang=en"
   },
   "KW": {
     "status": "success",
     "data": {
-      "date": "01",
+      "date": "02",
       "month": "Jumada al Thaniyah",
       "year": "1448"
     },
-    "cachedAt": "2026-11-11T19:04:41.682Z",
+    "cachedAt": "2026-11-12T00:10:19.503Z",
     "source": "https://www.awqaf.gov.kw/en"
   },
   "JO": {
     "status": "success",
     "data": {
-      "date": "01",
+      "date": "02",
       "month": "جمادى الآخر",
       "year": "1448"
     },
-    "cachedAt": "2026-11-11T19:04:41.682Z",
+    "cachedAt": "2026-11-12T00:10:19.503Z",
     "source": "https://www.aliftaa.jo/Default"
   }
 }
